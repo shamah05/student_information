@@ -1,0 +1,24 @@
+.select2-container--krajee .select2-selection--single .select2-selection__rendered {
+    margin-top: 0px !important;
+}
+
+input:read-only {
+    background-color: white !important;
+}
+
+.kv-drp-dropdown .left-ind, .kv-drp-dropdown .right-ind {
+    z-index: 3;
+    top: 0.8rem !important;
+}
+
+
+.select2-container--krajee .select2-selection--single .select2-selection__clear {
+    padding-bottom: 10px;
+}
+
+.kv-drp-dropdown .kv-clear {
+    padding: 0 0.45rem;
+    font-size: 1.65rem;
+    right: 2.4rem;
+    line-height: 1.95rem;
+}
